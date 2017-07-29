@@ -1,0 +1,25 @@
+body{
+    background: url("http://cdn.wallpapersafari.com/71/2/zvHWJ1.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title{
+    text-align: center;
+    font-size: 28px;
+    color: white;
+}
+
+.area{
+    background-color: orangered;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+.intro{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+}
